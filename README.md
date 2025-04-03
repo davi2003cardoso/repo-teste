@@ -22,3 +22,6 @@ git pull -> puxa informações do ambiente remoto para o ambiente local
 
 git push -> atualiza o diretório remoto com os commits locais. 
 
+
+TESTE DE ALTERAÇÃO NO README.md
+x=x=x=x=x=x=x=x=x=x=x=x=x=x=x=x
